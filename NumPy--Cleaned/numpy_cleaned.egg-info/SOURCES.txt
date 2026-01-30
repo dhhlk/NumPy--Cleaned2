@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+numpy_cleaned/__init__.py
+numpy_cleaned/arrays.py
+numpy_cleaned/condint.py
+numpy_cleaned/maths_cleaned.py
+numpy_cleaned/stabilze.py
+numpy_cleaned.egg-info/PKG-INFO
+numpy_cleaned.egg-info/SOURCES.txt
+numpy_cleaned.egg-info/dependency_links.txt
+numpy_cleaned.egg-info/top_level.txt
