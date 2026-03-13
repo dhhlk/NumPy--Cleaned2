@@ -111,7 +111,7 @@ Installation
 
 Currently designed for local use:
 
-git clone: (https://github.com/dhhlk/NumPy--Cleaned/)
+git clone: (https://github.com/dhhlk/NumPy--Cleaned2/)
 
 
 Then:
