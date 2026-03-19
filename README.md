@@ -1,4 +1,4 @@
-#NumPy--Cleaned
+# NumPy--Cleaned
 
 A lightweight, Decimal-safe math and array library for environments where NumPy is not practical
 (schools, restricted systems, macros, low-permission computers).
